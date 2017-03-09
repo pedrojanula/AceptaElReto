@@ -1,5 +1,3 @@
-package pkg100.constante.de.kaprekar;
-
 import java.util.Scanner;
 
 public class ConstanteDeKaprekar {
