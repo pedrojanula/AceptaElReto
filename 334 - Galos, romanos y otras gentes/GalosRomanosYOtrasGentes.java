@@ -1,5 +1,3 @@
-package pkg334.galos.romanos.y.otras.gentes;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
